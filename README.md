@@ -3,7 +3,7 @@
 Se crea el algoritmo para invertir el orden de los caracteres de un string pasado como parametro.
 Se crea una clase adicional para desaclopar la funcionalidad, así:
 
-![alt tag](/img/Capture.png)
+![alt tag](/InvertString/img/Capture.png)
 
 
 Posteriormente en el metodo Main() de la clase principal de la consola Program.cs
