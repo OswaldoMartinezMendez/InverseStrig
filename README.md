@@ -3,23 +3,7 @@
 Se crea el algoritmo para invertir el orden de los caracteres de un string pasado como parametro.
 Se crea una clase adicional para desaclopar la funcionalidad, así:
 
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
-namespace InvertString
-{
-    public class StringHelper
-    {
-        public static string ReverseString(string s)
-        {
-            char[] arr = s.ToCharArray();
-            Array.Reverse(arr);
-            return new string(arr);
-        }
-    }
-}
+![alt tag](../img/Capture.png)
 
 
 Posteriormente en el metodo Main() de la clase principal de la consola Program.cs
